@@ -1,0 +1,1019 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"response",
+				"response_dict\tstatement"
+			],
+			[
+				"reso",
+				"response_dict\tstatement"
+			],
+			[
+				"Name",
+				"NameForm\tclass"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"f",
+				"filter2\tstatement"
+			],
+			[
+				"fram",
+				"frame_gray\tstatement"
+			],
+			[
+				"Img",
+				"Image"
+			],
+			[
+				"file",
+				"filename\tstatement"
+			],
+			[
+				"vi",
+				"VideoCapture"
+			],
+			[
+				"fiel",
+				"filename\tstatement"
+			],
+			[
+				"v",
+				"VideoCapture"
+			],
+			[
+				"im",
+				"image_np\tstatement"
+			],
+			[
+				"get",
+				"get_frame_mean\tfunction"
+			],
+			[
+				"r",
+				"read"
+			],
+			[
+				"con",
+				"convert_video_BGR2GRAY\tfunction"
+			],
+			[
+				"Dr",
+				"DRONE_CAPTURES\tstatement"
+			],
+			[
+				"gra",
+				"gray\tstatement"
+			],
+			[
+				"gray",
+				"gray_video\tstatement"
+			],
+			[
+				"D",
+				"DRONE_CAPTURES\tstatement"
+			],
+			[
+				"DR",
+				"DRONE_CAPTURES_ROOTDIR\tstatement"
+			],
+			[
+				"goog",
+				"google_trends\tparam"
+			],
+			[
+				"train",
+				"train_encoder_hits1\tstatement"
+			],
+			[
+				"fina",
+				"final_train_encoder_input1\tstatement"
+			],
+			[
+				"a",
+				"append\tfunction"
+			],
+			[
+				"train_e",
+				"train_encoder_input1\tstatement"
+			],
+			[
+				"train_",
+				"train_hits"
+			],
+			[
+				"floa",
+				"float\tclass"
+			],
+			[
+				"i",
+				"indx\tstatement"
+			],
+			[
+				"float",
+				"float32"
+			],
+			[
+				"inde",
+				"indexs\tstatement"
+			],
+			[
+				"empty",
+				"empty_like\tstatement"
+			],
+			[
+				"as",
+				"astype"
+			],
+			[
+				"index",
+				"indexes"
+			],
+			[
+				"decoder",
+				"decoder_features"
+			],
+			[
+				"dta",
+				"data_frame_page\tstatement"
+			],
+			[
+				"data_fra",
+				"data_frame_page\tstatement"
+			],
+			[
+				"meta",
+				"meta_file\tstatement"
+			],
+			[
+				"raw",
+				"raw_features_file\tstatement"
+			],
+			[
+				"raw_",
+				"raw_features"
+			],
+			[
+				"rand",
+				"random_seed"
+			],
+			[
+				"assign",
+				"assign_list\tstatement"
+			],
+			[
+				"feature",
+				"feature_dict"
+			],
+			[
+				"name",
+				"name_scope"
+			],
+			[
+				"pla",
+				"placeholders"
+			],
+			[
+				"fea",
+				"feature_meta"
+			],
+			[
+				"feat",
+				"features\tstatement"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"readli",
+				"readlines\tfunction"
+			],
+			[
+				"pyt",
+				"pytrends_data\tstatement"
+			],
+			[
+				"Data",
+				"DataFrame"
+			],
+			[
+				"pytr",
+				"pytrends_data"
+			],
+			[
+				"page",
+				"pages\tstatement"
+			],
+			[
+				"g",
+				"groups\tstatement"
+			],
+			[
+				"sa",
+				"save_dir〔argument〕"
+			],
+			[
+				"ima",
+				"image_filename〔variable〕"
+			],
+			[
+				"image",
+				"image_filename〔variable〕"
+			],
+			[
+				"saved",
+				"saved_images_dict"
+			],
+			[
+				"pre",
+				"prefetched_images_dict〔variable〕"
+			],
+			[
+				"num",
+				"num_prefetch_threads"
+			],
+			[
+				"images",
+				"image_tuple_list"
+			],
+			[
+				"curr",
+				"current_url_index〔variable〕"
+			],
+			[
+				"pr",
+				"prefetch_url_queue〔variable〕"
+			],
+			[
+				"imag",
+				"image_tuple_list"
+			],
+			[
+				"prefetch",
+				"prefetched_images_dict"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"c",
+				"close"
+			],
+			[
+				"sys",
+				"system〔function〕"
+			],
+			[
+				"E",
+				"Exception〔class〕"
+			],
+			[
+				"upda",
+				"update_saved_images_count_label〔function〕"
+			],
+			[
+				"save",
+				"saved_images_count_label〔variable〕"
+			],
+			[
+				"curre",
+				"current_url_index"
+			],
+			[
+				"loaded",
+				"loaded_url_count"
+			],
+			[
+				"loa",
+				"load_current_image_tuple"
+			],
+			[
+				"next",
+				"next_images_list"
+			],
+			[
+				"ne",
+				"next_images_list"
+			],
+			[
+				"searc",
+				"search_text〔variable〕"
+			],
+			[
+				"Qt",
+				"QtGui"
+			],
+			[
+				"Q",
+				"QWidget"
+			],
+			[
+				"s",
+				"show"
+			],
+			[
+				"open",
+				"open_dir〔variable〕"
+			],
+			[
+				"sea",
+				"search_text〔variable〕"
+			],
+			[
+				"n",
+				"num_images_text_box〔variable〕"
+			],
+			[
+				"previo",
+				"previous_image_on_click〔function〕"
+			],
+			[
+				"setu",
+				"setup_logger〔function〕"
+			],
+			[
+				"lo",
+				"logging〔module〕"
+			],
+			[
+				"sho",
+				"setShortcut"
+			],
+			[
+				"url",
+				"url_list"
+			],
+			[
+				"ex",
+				"exit〔function〕"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"actual",
+				"actual_images"
+			],
+			[
+				"actu",
+				"actual_images〔variable〕"
+			],
+			[
+				"pa",
+				"pageScrolled"
+			],
+			[
+				"search",
+				"search_term〔argument〕"
+			],
+			[
+				"cl",
+				"click_show_more_buttom〔function〕"
+			],
+			[
+				"cli",
+				"click_element"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"type",
+				"file_type"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 256,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/a3s/New Volume/Git-Repositories/ReactTutorial/.eslintrc",
+			"settings":
+			{
+				"buffer_size": 1119,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSublimeLinter-eslint\n--------------------\n\n  SublimeLinter-eslint\n  -------------------------------\n  This linter plugin for SublimeLinter provides an interface to ESLint.\n  \n  Please read the installation instructions at:\n  \n  https://github.com/roadhump/SublimeLinter-eslint\n",
+			"settings":
+			{
+				"buffer_size": 328,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "/media/a3s/New Volume/Git-Repositories/ReactTutorial/.jshintrc",
+			"settings":
+			{
+				"buffer_size": 53,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 1563,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/a3s/.config/sublime-text-3/Packages/ESLint/ESLint.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1230,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.css",
+			"settings":
+			{
+				"buffer_size": 639,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 184.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"Boxy",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"Boxy Theme: ",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"anaconda",
+				"Anaconda: Vagrant Init"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/a3s/New Volume/Git-Repositories/ReactTutorial",
+		"/media/a3s/New Volume/Git-Repositories/ReactTutorial/react_demo_app",
+		"/media/a3s/New Volume/Git-Repositories/ReactTutorial/react_demo_app/src"
+	],
+	"file_history":
+	[
+		"/media/a3s/New Volume/Git-Repositories/ReactTutorial/.eslintrc",
+		"/media/a3s/New Volume/Git-Repositories/ReactTutorial/react_demo_app/src/ReactDemo.sublime-project",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/GroundStation/urls.py",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/config/webpackDevServer.config.js",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/package.json",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/config/paths.js",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/config/webpack.config.dev.js",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/GroundStation/settings.py",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/config/polyfills.js",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/.babelrc",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/webpack.config.js",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/src/App/index.js",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/src/App/index.html",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/src/index.js",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/loginPage/templates/index.html",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/src/App/app.js",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/src/index.html",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/src/.fuse_hidden000149cc0000a160",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/dist/main.js",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/dist/index.html",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/loginPage/urls.py",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/loginPage/templates/loginPage/mainPage.html",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/loginPage/templates/loginPage/loginPage.html",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/build/index.html",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/public/index.html",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/src/App.js",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/src/App.test.js",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_frontend/src/index.css",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/GroundStation/__init__.py",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/loginPage/views.py",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/loginPage/tests.py",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/loginPage/forms.py",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_landing_page/views.py",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/loginPage/strings.py",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/loginPage/apps.py",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/gs_frontend/src/index.js",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/gs_frontend/src/App.js",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/gs_frontend/src/logo.svg",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_landing_page/templates/gs_landing_page/default.html",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/GroundStation/gs_landing_page/urls.py",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/index.html",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/css/style.css",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/css/index.css",
+		"/home/a3s/Downloads/Joystick/index.html",
+		"/media/a3s/New Volume/Git-Repositories/Flight_Control_System/Ground_Station/http_client_wrapper.py",
+		"/home/a3s/Downloads/flytosv1.5-5g/data/flyt/flytos/flytcore/setup.sh",
+		"/home/a3s/Downloads/Joystick/js/flyt_web_library/login.js",
+		"/media/a3s/New Volume/Git-Repositories/flytsim-docker-0.2.3/linux/intelgraphics/setup.sh",
+		"/media/a3s/New Volume/Git-Repositories/OpticalFlowDetection/preprocessing.py",
+		"/media/a3s/New Volume/Data Sets/Object-detection/Human_Tracking_Demo.py",
+		"/media/a3s/New Volume/Git-Repositories/WebTrafficFinal/features.py",
+		"/media/a3s/New Volume/Git-Repositories/WebTrafficFinal/Model.py",
+		"/media/a3s/New Volume/Git-Repositories/WebTrafficPrediction/trainer_test.py",
+		"/media/a3s/New Volume/Git-Repositories/kaggle-web-traffic/cocob.py",
+		"/home/a3s/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/media/a3s/New Volume/Data Sets/Object-detection/object_detection_test.py",
+		"/media/a3s/New Volume/Git-Repositories/WebTrafficPrediction/WebTrafficPrediction.sublime-project",
+		"/media/a3s/New Volume/Git-Repositories/WebTrafficPrediction/test.py",
+		"/media/a3s/New Volume/models/research/object_detection/object_detection_tutorial.py",
+		"/media/a3s/New Volume/Git-Repositories/Google Images Downloader/GoogleImagesDownloader.py",
+		"/media/a3s/New Volume/Git-Repositories/Google Images Downloader/test.py",
+		"/media/a3s/New Volume/Git-Repositories/Google Images Downloader/DownloadUtils.py",
+		"/media/a3s/New Volume/labelImg-master/labelImg.py",
+		"/media/a3s/New Volume/Git-Repositories/Google Images Downloader/MainWindow.py",
+		"/home/a3s/Desktop/agent.py",
+		"/media/a3s/New Volume/Git-Repositories/Google Images Downloader/webDriverUtils.py",
+		"/media/a3s/New Volume/Git-Repositories/Google Images Downloader/startup.sh",
+		"/home/a3s/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/a3s/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/media/a3s/New Volume/Git-Repositories/Google Images Downloader/gui.py"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|1f1682198a3cca43b7022d259fd744f3559e374e95e9fa96b34d2b8d663894a9|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.15.region_keys":
+							[
+								"SL.jshint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.jshint.Highlights.|8febaea222be5965b13d2c3910eecbfb8e84181827b6c71e7a9393bb58fbb619|region.redish markup.error.sublime_linter|32",
+								"SL.jshint.Highlights.|720796bb3064845d913e99d4b4b703317a75fb0af4d0940a6f1767be0ddcaf2c|region.yellowish markup.warning.sublime_linter|32",
+								"SL.jshint.Highlights.|a2430ecaa0ce7167eb88db16b2dedda51b5de60536c0b3d55af45c595a1afdb8|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|cbd7aab7501b7797592970b3aac7b9dbc79346258e2046af7c39f58be73cbf2b|region.redish markup.error.sublime_linter|32",
+								"SL.jshint.Highlights.|f50ba3b361e9717175b8ec6accd73c8fbf061ac223cb78efb249622b427c7a54|region.redish markup.error.sublime_linter|32",
+								"SL.jshint.Highlights.|715302d5e3f1cbc603c6c598fcf3a6d9e14ad716d80db68c2aae2cea0e549dac|region.yellowish markup.warning.sublime_linter|32",
+								"SL.jshint.Highlights.|be80b6a7e455dfdd46c0183f38e9b5171d4594fd786f3f3649e3bdc3e7cf743d|region.yellowish markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.jshint.Highlights.|8c234f39b9934fb6a448df934adfb8d4d7642597610572bcb097d367a29e9693|region.yellowish markup.warning.sublime_linter|32",
+								"SL.jshint.Highlights.|896a95e04a03a12cb6053e42a51e6e16bd38f99f755077c79c4181182183277b|region.yellowish markup.warning.sublime_linter|32",
+								"SL.jshint.Highlights.|c330596b508ef7ad6823e1bf7fd15648c573c9d434a85a5221c8c2eb6ce72be4|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/media/a3s/New Volume/Git-Repositories/ReactTutorial/.eslintrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								423,
+								423
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.json.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.json.Highlights.|7d5ca14bd6f122e66771ad3cb41d9f234ca164ebc7c035befc094cc6fd31785b|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.21.region_keys":
+							[
+								"SL.json.Highlights.|7d5ca14bd6f122e66771ad3cb41d9f234ca164ebc7c035befc094cc6fd31785b|region.redish markup.error.sublime_linter|32",
+								"SL.json.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (ESLint).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/media/a3s/New Volume/Git-Repositories/ReactTutorial/.jshintrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.15.region_keys":
+							[
+							],
+							"SL.16.region_keys":
+							[
+								"SL.json.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions",
+								"SL.json.Highlights.|393c560e82e79610c8a746fccde21bf41e1c65df2f43ad96fd414d5d27649c81|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.17.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Settings).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								877,
+								877
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.jshint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.jshint.Highlights.|d420b8848e01eb40616afb7da8ce31bfd3df7059199be48a34c87f23215fbb06|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.16.region_keys":
+							[
+								"SL.jshint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.jshint.Highlights.|d420b8848e01eb40616afb7da8ce31bfd3df7059199be48a34c87f23215fbb06|region.redish markup.error.sublime_linter|32",
+								"SL.jshint.Highlights.|9b660d6034ee9a3e6723f8b9d3e677d8c2ed9b5d829db278c5984f5f30cf6d4d|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|be80b6a7e455dfdd46c0183f38e9b5171d4594fd786f3f3649e3bdc3e7cf743d|region.yellowish markup.warning.sublime_linter|32",
+								"SL.jshint.Highlights.|715302d5e3f1cbc603c6c598fcf3a6d9e14ad716d80db68c2aae2cea0e549dac|region.yellowish markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.jshint.Highlights.|c330596b508ef7ad6823e1bf7fd15648c573c9d434a85a5221c8c2eb6ce72be4|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/a3s/.config/sublime-text-3/Packages/ESLint/ESLint.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1229,
+								1229
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+							],
+							"SL.21.region_keys":
+							[
+							],
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								639,
+								639
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 130.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 136.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ReactDemo.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
